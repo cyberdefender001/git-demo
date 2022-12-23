@@ -3,3 +3,5 @@ Should finish lessons as soon as possible
 
 Now we are doing some changes
 Using git gui
+
+Change yourself
